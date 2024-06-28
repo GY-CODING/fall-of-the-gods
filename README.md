@@ -15,7 +15,7 @@ Fall of the Gods is a videogame yet to be defined based on its homonymous univer
 ## How it was made
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 This videogame uses C++ (and Unreal Blueprints) as its main coding languages inisde the game engine, which is Unreal Engine.
 
